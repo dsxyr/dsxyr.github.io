@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 深渊冥狱
+subtitle: 于黑暗中仰望光明
 description:
-author: John Doe
-language:
+author: Dsxyr Pys
+language: zh-CN
 timezone:
 
 # URL
@@ -68,4 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/dsxyr/dsxyr.github.io.git
+  branch: master
